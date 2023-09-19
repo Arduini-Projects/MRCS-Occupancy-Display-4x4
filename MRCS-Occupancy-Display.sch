@@ -5794,7 +5794,7 @@ By microbuilder.eu&lt;/p&gt;</description>
 <text x="152.4" y="20.32" size="2.1844" layer="97">A Template for Eagle Projects</text>
 <text x="240.03" y="12.7" size="2.1844" layer="97">1.0</text>
 <text x="241.3" y="6.35" size="2.1844" layer="97">A</text>
-<text x="166.37" y="6.35" size="2.1844" layer="97">Your Name</text>
+<text x="166.37" y="6.35" size="2.1844" layer="97">Seth Neumann, Allison Dendy</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="FRAME" x="0" y="0"/>
