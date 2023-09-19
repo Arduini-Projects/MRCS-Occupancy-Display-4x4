@@ -1,10 +1,2 @@
-### How to use this template:
-
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+Allison wanted to take an input from the open drain/collector of a cpOD/DCC-OD and drive a bi-color LED to show occupancy status. The plan is a hex inverter (7404/7407) to provide the other status
+so the occupied indication is driven from the cpOD/DCC-OD and "not occupied"indication comes from the inverter. Limiting resistors are provided. 
